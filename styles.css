@@ -1,0 +1,34 @@
+.navbar-light .navbar-brand{
+    color: blue;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: blue;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: blue;
+}
+
+.jumbotron{
+    background-image: url(court.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+    text-shadow: 2px 2px 2px blue;
+    color: white;
+    font-family: 'Alfa Slab One', cursive;
+}
+
+h1.display-4{
+    padding: 5px
+    font-family: 'Alfa Slab One', cursive;
+}
+
+h2{
+    text-align: center; 
+    color: blue; 
+    font-family: 'Alfa Slab One', cursive;
+}
+.logo{
+    height:150px;
+}
